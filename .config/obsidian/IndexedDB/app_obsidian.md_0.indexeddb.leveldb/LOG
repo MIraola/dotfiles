@@ -1,0 +1,12 @@
+2025/04/10-16:31:17.166 436 Reusing MANIFEST /home/irmik/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/10-16:31:17.167 436 Recovering log #122
+2025/04/10-16:31:17.187 436 Reusing old log /home/irmik/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000122.log 
+2025/04/10-16:31:18.000 436 Level-0 table #127: started
+2025/04/10-16:31:18.016 436 Level-0 table #127: 1102948 bytes OK
+2025/04/10-16:31:18.018 436 Delete type=0 #122
+2025/04/10-16:31:18.020 436 Compacting 1@1 + 1@2 files
+2025/04/10-16:31:18.034 436 Generated table #128@1: 4638 keys, 1028730 bytes
+2025/04/10-16:31:18.034 436 Compacted 1@1 + 1@2 files => 1028730 bytes
+2025/04/10-16:31:18.035 436 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/10-16:31:18.035 436 Delete type=2 #124
+2025/04/10-16:31:18.035 436 Delete type=2 #127
